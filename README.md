@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there 💗
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shu030929&theme=rose&show_icons=true)
 
 <!--
 **shu030929/shu030929** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
