@@ -98,17 +98,3 @@ Computer Science and Engineering 📍 Seoul, South Korea
 
 **Languages)**  🇰🇷 **Korean**   . 🇬🇧 **English** . 🇫🇷 **French**
 
-
----
-
-<div align="center">
-
-### Less, but better.
-
-*Thoughtful design. Meaningful code. Endless curiosity.*
-
-<br>
-
-<br><br>
-
-</div>
