@@ -82,7 +82,9 @@ Chung-Ang University · [2024] — [2025]
 <br>
 
 
-### Beyond Code
+### 🌍 Beyond Code
 
-🇰🇷 **Korean**  .  🇬🇧 **English**  .  🇫🇷 **French(Delf)**
-
+**Languages**
+- 🇰🇷 **Korean** — Native
+- 🇬🇧 **English** — Fluent
+- 🇫🇷 **Français** — Scolarité dans une école française · À l'aise à l'oral
