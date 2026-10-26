@@ -7,6 +7,7 @@
 
 ### Software Engineering Student · Developer · UI/UX Designer
 
+
 </div>
 
 <br>
@@ -55,17 +56,26 @@ Computer Science and Engineering 📍 Seoul, South Korea
 
 ### ⭐️ My Projects!
 
-*A collection of things I've designed, developed, and explored.*
+*A collection of projects where technology meets creativity.*
 
-| Project | Category | Description |
+| Project | Tech Stack | Description |
 |:---|:---|:---|
-| [Project 01](PROJECT_URL) | 📱 Mobile | Flutter / Kotlin Application |
-| [Project 02](PROJECT_URL) | 💻 Front-end | Interactive Web Project |
-| [Project 03](PROJECT_URL) | 🎨 UI/UX | Interface Design Project |
-| [Project 04](PROJECT_URL) | 🐍 Python | Python-based Project |
-| [Project 05](PROJECT_URL) | 🧩 Software | Team / Personal Project |
+| 🎾 [Cross The Line](https://github.com/Cross-TheLine/Frontend) | `Flutter` `Dart` | A smartphone-based tennis line-call assistance application. |
+| 🧴 [PEACE](https://github.com/SkinCare-Peace/frontend) | `Flutter` `Dart` `AI` | A skincare application providing skin analysis and personalized routine recommendations. |
+| 📚 [MunJangZip](https://github.com/GDGoC-CAU/MunJangZip_FE) | `Kotlin` `Android` | A digital reading journal for collecting books, thoughts, and meaningful reading memories. |
+| 🏥 [APAYO](https://github.com/Handoni/Apayo) | `Flutter` `Python` `GPT API` | A symptom-based guidance application for medical specialties and hospital information. |
+| 🥽 [RaisingBeggars VR](https://github.com/RaisingBeggars/RaisingBeggarsVRGame) | `Unity` `C#` `XR` | A hand-tracking VR simulation combining gesture interaction and virtual stock trading. |
 
 <br>
+
+<div align="center">
+
+[Explore More Projects →](https://github.com/shu030929)
+
+</div>
+
+<br>
+
 
 ### 💼 Experience & Activities
 
