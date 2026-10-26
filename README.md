@@ -11,17 +11,6 @@
 </div>
 
 <br>
-
-
-### 🎓 Education
-
-**Chung-Ang University**  
-Computer Science and Engineering 📍 Seoul, South Korea
-
-- **Degree:** B.S. Student
-- **Period:** [2022] — Present
-
-
 <br>
 
 ### 🛠️ Tech Stack & Development Tools
@@ -78,33 +67,22 @@ Computer Science and Engineering 📍 Seoul, South Korea
 
 
 ### 💼 Experience & Activities
+#### 🎨 Google Developer Groups on Campus (GDGoC CAU)
+**Design & Content Contributor**  
+Chung-Ang University · [2024] — [2025]
 
-**[Role / Organization]**  
-[Month Year] — [Month Year]
+- 🎨 Designed Instagram posts and visual content for the developer community.
+- ✨ Applied visual design principles to maintain a consistent and engaging visual identity.
 
-- 🔹 [Main responsibilities]
-- 🔹 [Key contributions]
-- 🔹 [Technologies used]
+**Skills:** `Graphic Design` · `Social Media Design` · `Visual Communication` · `Content Creation`
 
-**[Club / Research / Team Project]**  
-[Month Year] — [Month Year]
-
-- 🔹 [Activity description]
-- 🔹 [Achievements or outcomes]
+🔗 [GDGoC CAU GitHub](https://github.com/GDGoC-CAU)
 
 <br>
-
-### 🏆 Achievements & Certifications
-
-| Year | Achievement |
-|:---|:---|
-| [Year] | 🏆 [Award / Competition] |
-| [Year] | 📜 [Certification] |
-| [Year] | 🎓 [Scholarship / Academic Achievement] |
-
 <br>
+
 
 ### Beyond Code
 
-**Languages)**  🇰🇷 **Korean**   . 🇬🇧 **English** . 🇫🇷 **French**
+🇰🇷 **Korean**  .  🇬🇧 **English**  .  🇫🇷 **French(Delf)**
 
