@@ -49,8 +49,8 @@
 
 | Project | Tech Stack | Description |
 |:---|:---|:---|
-| 🎾 [Cross The Line](https://github.com/SkinCare-Peace) | `Flutter` `Dart` | A smartphone-based tennis line-call assistance application. |
-| 🧴 [PEACE](https://github.com/SkinCare-Peace/frontend) | `Flutter` `Dart` `AI` | A skincare application providing skin analysis and personalized routine recommendations. |
+| 🎾 [Cross The Line](https://github.com/Cross-TheLine) | `Flutter` `Dart` | A smartphone-based tennis line-call assistance application. |
+| 🧴 [PEACE](https://github.com/SkinCare-Peace) | `Flutter` `Dart` `AI` | A skincare application providing skin analysis and personalized routine recommendations. |
 | 📚 [MunJangZip](https://github.com/GDGoC-CAU/MunJangZip_FE) | `Kotlin` `Android` | A digital reading journal for collecting books, thoughts, and meaningful reading memories. |
 | 🏥 [APAYO](https://github.com/Handoni/Apayo) | `Flutter` `Python` `GPT API` | A symptom-based guidance application for medical specialties and hospital information. |
 | 🥽 [RaisingBeggars VR](https://github.com/RaisingBeggars/RaisingBeggarsVRGame) | `Unity` `C#` `XR` | A hand-tracking VR simulation combining gesture interaction and virtual stock trading. |
